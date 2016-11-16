@@ -1,0 +1,9 @@
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.12\Task3.Tests\bin\Debug\Task3.Tests.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.12\Task3.Tests\bin\Debug\Task3.Tests.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.12\Task3.Tests\bin\Debug\nunit.framework.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.12\Task3.Tests\bin\Debug\Task3.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.12\Task3.Tests\bin\Debug\nunit.framework.xml
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.12\Task3.Tests\bin\Debug\Task3.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.12\Task3.Tests\obj\Debug\Task3.Tests.csprojResolveAssemblyReference.cache
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.12\Task3.Tests\obj\Debug\Task3.Tests.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.12\Task3.Tests\obj\Debug\Task3.Tests.pdb
